@@ -79,12 +79,12 @@ Before running this project, make sure you have the following prerequisites inst
 #### 👤 Agneta Pupienyte
 GitHub: @agneta1991<br>
 Twitter: @pupienytea<br>
-LinkedIn: LinkedIn<br>
+LinkedIn: Agneta Pupienyte<br>
 
 #### 👤 Joyce Cruz
-GitHub: @balatstar
-Twitter: @balatstar
-LinkedIn: Joyce Cruz
+GitHub: @balatstar<br>
+Twitter: @balatstar<br>
+LinkedIn: Joyce Cruz<br>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
