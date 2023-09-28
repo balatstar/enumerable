@@ -14,12 +14,10 @@ module MyEnumerable
   end
 end
 
-public
-
 def filter
   result = []
   each do |item|
     result << item if yield(item)
   end
-  result.to_s
+  result
 end
