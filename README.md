@@ -19,9 +19,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Code Decoder <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-**Morse Code Decoder** is a collaborative project by Agneta Pupienyte and Joyce Cruze. It's a program designed to decode Morse code messages and provide translations.
+**Enumerable** is a collaborative project by Agneta Pupienyte and Joyce Cruze.
+The Project is a Ruby-based learning project that demonstrates our proficiency in using classes, modules, and the implementation of a custom module called MyEnumerable. This project provides a practical understanding of Ruby syntax for basic programming operations, best practices, and adherence to language style guides.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,7 +39,10 @@ This project is built using the following technologies:
 
 ### Key Features <a name="key-features"></a>
 
-- Decodes morse code letters, words and messages
+- Custom Data Structure
+- Custom Enumerable Functionality
+- Clean and Readable Code
+- Professional Documentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,7 +56,7 @@ This project is built using the following technologies:
 
 ## Getting Started <a name="getting-started"></a>
 
-To get started with the Morse Code Decoder, follow the steps below:
+To get started with the Enumerable, follow the steps below:
 
 ### Prerequisites
 
@@ -65,34 +69,36 @@ Before running this project, make sure you have the following prerequisites inst
 1. Clone this repository to your desired folder:
 
    ```sh
-   git clone https://github.com/agneta1991/morse_code.git
+   git clone https://github.com/balastar/enumerable.git
 
 2. Navigate to the project directory:
 
     ```sh
-    cd morse_code
+    cd enumerable
 3. Run the program:
     ```sh
-    ruby morse_code_decoder.rb
+    ruby enumerable.rb
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-👤 Agneta Pupienyte
 
+#### 👤 Agneta Pupienyte
 GitHub: @agneta1991<br>
 Twitter: @pupienytea<br>
 LinkedIn: LinkedIn<br>
 
-👤 Joyce Cruz
+#### 👤 Joyce Cruz
 GitHub: @balatstar
 Twitter: @balatstar
 LinkedIn: Joyce Cruz
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- front-end GUI to input morse code message
-- front-end GUI to display decoded message
+- Additional Enumerable Methods
+- Unit Tests
+- Integration with Real Data
+- User Interface
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,13 +108,13 @@ LinkedIn: Joyce Cruz
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
-[issues page](https://github.com/agneta1991/morse_code/issues).
+[issues page](https://github.com/balatstar/enumerable/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 <br>
 If you find this project useful, please consider giving it a star!
 
-[![Star](https://img.shields.io/github/stars/agneta1991/morse_code?style=social)](https://github.com/agneta1991/morse_code)
+[![Star](https://img.shields.io/github/stars/balastar/enumerable?style=social)](https://github.com/balatstar/enumerable/)
 
 
 <!-- ACKNOWLEDGEMENTS -->

@@ -1,5 +1,4 @@
 module MyEnumerable
-
   def all?
     each do |item|
       return false unless yield(item)
@@ -13,5 +12,14 @@ module MyEnumerable
     end
     false
   end
+end
 
+public
+
+def filter
+  result = []
+  each do |item|
+    result << item if yield(item)
+  end
+  result
 end
