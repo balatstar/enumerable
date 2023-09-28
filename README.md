@@ -5,7 +5,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
   - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -45,12 +44,6 @@ This project is built using the following technologies:
 - Professional Documentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Coming soon!)
 
 <!-- GETTING STARTED -->
 
