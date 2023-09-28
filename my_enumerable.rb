@@ -21,5 +21,5 @@ def filter
   each do |item|
     result << item if yield(item)
   end
-  result
+  result.to_s
 end
